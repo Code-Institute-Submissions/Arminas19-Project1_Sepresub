@@ -31,7 +31,7 @@ body{
     color: inherit;
 }
 #menu a:hover {
-    border: 3px dashed pink;
+    border: 3px dashed orange;
     
 }
 .active {
@@ -39,12 +39,11 @@ body{
 }
 
 
-/*  Fifa picture */
+/*  Fifa picture and also cover for it. 'the cover is meant to be outside the image by the way' */
 
 #pre-oreder-section{
     width: 1280px;
     height: 720px;
-    background-color: blue;
     margin: 0 auto;
     margin-top: 40px;
     background-image: url(../css/images/fifa-22.jpg);
@@ -55,21 +54,33 @@ body{
     
 
 #pre-order-div{
-    width: 300px;
-    height: 150px;
+    width: 500px;
+    height: 300px;
     position:absolute;
-    margin-bottom: 30px;
-    background-color: green;
-   overflow: hidden;
+   margin-top: 500px;
+   margin-left: 850px ;
+    background-color: rgba(0, 0, 0, 0.7);
+    border: 3px solid orange;
+   text-align: center;
 }
 #pre-order-div h1{
     color: #fff;
     font-size: 60px;
+    text-align: center;
  
 }
+
+
 #pre-order-div p{
     color: #fff;
     font-size: 20px;
+    text-align: center;
  
 }
+#pre-order-div span{
+    font-size: 35px;
+    color: orange;
+    text-align: center;
+}
+
    
