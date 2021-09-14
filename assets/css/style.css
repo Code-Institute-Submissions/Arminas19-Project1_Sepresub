@@ -187,3 +187,59 @@ padding: 20px;
 .Social-networks a{
     text-decoration: none;
 }
+/* Media screens sizes */
+/*  For medium screen sizes  */
+
+@media  screen and (max-width:1158px) {
+    #pre-order-div{
+        margin-top: 500px;
+        margin-left:  250px; 
+    }
+    #footer{
+        width: 100%;
+        margin: 0 auto;
+        margin-top: 140px;
+margin-left:10px;
+    }
+    #footer h2{
+        font-size: smaller;
+    }
+    .Social-networks{
+font-size: 80px;
+    }
+    #long-paragraph{
+        padding-top: 100px;
+    }
+    #content{
+        width: 100%;
+    }
+    #content-image{
+position: absolute;
+    }
+    /* #content-paragrph{
+
+    } */
+}
+/*  Media quiers for 950px wide down */
+
+@media screen and (max-width:950px) {
+    #footer{
+        margin-left: 100px;
+        width: 100%;
+    }
+    #long-paragraph{
+        width: 95%;
+    height: 130px;
+    }
+    #long-paragraph-div{
+        width: 100%;
+        height: 130px;
+        margin-left:  120px; ;
+    }
+    #content{
+        margin-left:120px;
+    }
+    #content-image{
+margin-left: 10px;
+    }
+}
