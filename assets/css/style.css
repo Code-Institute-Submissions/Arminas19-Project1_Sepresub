@@ -210,10 +210,7 @@ padding: 20px;
     position: absolute;
     text-transform: capitalize;
 }
-#video-div{
-    
-   
-}
+
 
 .video{
 
@@ -408,6 +405,14 @@ margin-left: 50px;
         margin-left: 150px;
     }
     #header-nav{
-        margin-left: 150px;
+        margin-left: 100px;
     }
+    iframe{
+       padding-right: 600px;
+        
+    }
+    #iframe-id{
+padding-left: 0px;
+    }
+   
 }
