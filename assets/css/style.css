@@ -330,6 +330,15 @@ font-size: 80px;
     #content-image{
 position: absolute;
     }
+    #Trailer-content-div-3{
+margin-left: 650px;
+    }
+    #Trailer-content-div{
+
+height: 245px;
+margin-left: 80px;
+margin-top: 3px ;
+    }
     /* #content-paragrph{
 
     } */
@@ -355,5 +364,50 @@ position: absolute;
     }
     #content-image{
 margin-left: 10px;
+    }
+    #Trailer-content{
+        width: 500px;
+        height: 800px;
+        border: none;
+        margin-left: 343px;
+        border-left: 3px solid orange;
+        border-right: 3px solid orange;
+        
+    }
+    #Trailer-content p{
+        font-size: 22px;
+    }
+    #Trailer-content-div{
+        width: 400px;
+        height: 600px;
+        margin-top: 90px;
+        margin-left: 50px;
+    }
+    #Trailer-content-2{
+        width: 500px;
+        height: 680px;
+        border: none;
+        margin-left: 343px;
+        border-left: 3px solid orange;
+        border-right: 3px solid orange;
+       
+    }
+    #Trailer-content-div2{
+display: block;
+width: 400px;
+height: 300px;
+    }
+    #Trailer-content-div-3{
+display: block;
+width: 400px;
+height: 300px;
+margin-top: 350px;
+margin-left: 50px;
+    }
+    #Trailer-title{
+        margin-left: 150px;
+    }
+    #header-nav{
+        margin-left: 150px;
     }
 }
