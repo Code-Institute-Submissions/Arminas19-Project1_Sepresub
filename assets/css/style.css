@@ -177,7 +177,7 @@ body{
 }
 #long-paragraph-div{
     width: 75%;
-    height: 120px;
+    height: 130px;
     background-color: rgba(0, 0, 0, 0.7);
     margin: 0 auto;
     color: orange;
@@ -185,6 +185,7 @@ body{
 }
 #long-paragraph-div p{
     color: #fff;
+    font-size: 20px;
 }
 #long-paragraph-div span{
     color: orange;
