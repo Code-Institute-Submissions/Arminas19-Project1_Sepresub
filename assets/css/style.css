@@ -243,9 +243,7 @@ padding: 20px;
 }
 
 
-.video{
 
-}
 
 /* Trailer content + div  */
 #Trailer-content{
@@ -494,4 +492,12 @@ margin-left: 50px;
 padding-left: 0px;
     }
    
+}
+@media screen and (max-width:756px){
+    #menu-signup{
+        letter-spacing: 2px;
+        font-size: 45px;
+        margin-top: 20px;
+        margin-left: 50px;
+    }
 }
