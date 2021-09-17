@@ -23,7 +23,7 @@
 
 <section >
     
-    <nav id="menu">
+    <nav id="menu-signup" >
         <ul>
             <li>
 <a href="index.html" > Home </a>
@@ -32,14 +32,36 @@
 <a href="more.html"> More </a>
             </li>
             <li>
-<a href="sign-up.html" class= "active"> Sign-Up </a>
+<a href="sign-up.html" id= "active"> Sign-Up </a>
             </li>
         </ul>
     </nav>
     
 </section>
-<section>
+<section id="form-section">
+ 
+    <form method="POST" action="" class="sign-up-form">
+        <legend class="legend"> Would You Like To Join Our Community <i class="fas fa-comments"></i> </legend> 
+        <br>
+<label for="firstname"> First name </label>
+<input class = "form-text" type="text" id="firstname" name="firstname" required> 
 
+<label for="surname"> Surname </label> 
+<input class = "form-text" type="text" id="surname" name="surname" required> 
+
+<label for= "email"> Email </label>
+<input class = "form-text" type="email" id="email" name="email" required> 
+
+<h3> Would you like to get News about our latest FIFA developments. </h3> 
+<br>
+<label for="yes"> Yes</label>
+<input type="radio" id="yes" name="checkbox" required>
+
+<label for= "no"> No </label>
+<input type="radio" id="no" name="checkbox">
+
+<input class = "submit-button" type="submit" id= "submit-buttom" value="Let's GO!">
+    </form> 
     
 </section>
 
