@@ -340,6 +340,7 @@ font-size: 23px;
         color: #fff;
         background-color:rgba(0, 0, 0, 0.7);
         border: 2px solid rgb(208, 243, 55);
+        border-radius: 2px;
         max-width:450px;
         position:absolute;
         
