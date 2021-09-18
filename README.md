@@ -45,4 +45,7 @@ When a user visit's the home page, they will see a navigation menu, a big fifa 2
 
    ![More Page fifa trailer](assets/css/images/more-fifa-trailer.PNG)
 * More page content 
-   + 
+   + The more page expands content related to the home page. This section focuses on features in the game.
+   + I have made the content easy to read by changing the font size and color of my content so that it stands out from the background. 
+   + I made the colors a little different than the home page because i wanted to sepearate the two pages apart. 
+   ![More Page Content](assets/css/images/more-page-content.PNG)
