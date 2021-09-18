@@ -80,4 +80,10 @@ When a user visit's the home page, they will see a navigation menu, a big fifa 2
 * CSS 
    + No errors were found but a warning with the contents of 'Imported style sheets are not checked in direct input and file upload modes' which dosnt releat to my css. 
 * Accessibility 
-   + 
+   + I have checked lighthouse and confirmed that my website is easily accessible to user.
+   ![Lighthouse scores image](assets/css/images/Lighthouse.PNG)
+**Unfixed Bugs** 
+   + I cant move my iframe video to the left, i tried margin,padding and flaots but the only thing that worked was a one line style but the problem is that i cant use @media on it to set height and width, just couldnt connect my css to this element. 
+   + If i had more time i would try and make this website a bit more resposive. 
+   ***
+   ## Development
