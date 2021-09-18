@@ -77,3 +77,7 @@ When a user visit's the home page, they will see a navigation menu, a big fifa 2
 **Validator Testing**
 * HTML
    + No errors or warnings were found for all pages - index More or sign-up.
+* CSS 
+   + No errors were found but a warning with the contents of 'Imported style sheets are not checked in direct input and file upload modes' which dosnt releat to my css. 
+* Accessibility 
+   + 
