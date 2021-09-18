@@ -62,3 +62,8 @@ When a user visit's the home page, they will see a navigation menu, a big fifa 2
    + I put a line of text underneate the header of the footer to let the user know where to go if they want to read more information about the games features. 
 
     ![Footer image](assets/css/images/footer-image.PNG)
+    ## Testing
+   + I have tested the sign up form and i have confirmed that the button and link work, you need an email for the email input and all inputs are set to require. 
+   + I have confirmed that all the icons and font work. 
+   + I have confirmed that all my content is easily readable to the user by showing my website to someone else.
+   + I have confirmed that my video is fully controlable and that it fully works like its supposed too.  
