@@ -67,3 +67,13 @@ When a user visit's the home page, they will see a navigation menu, a big fifa 2
    + I have confirmed that all the icons and font work. 
    + I have confirmed that all my content is easily readable to the user by showing my website to someone else.
    + I have confirmed that my video is fully controlable and that it fully works like its supposed too.  
+   + i have tested my website in different browser's such as: Microsft Edge, Chrome, FireFox
+   *** 
+   **Bugs** 
+* Solved Bugs
+   + I had an issue with adding the fifa video to my website, later i found out with some help from code intitute's Tutor assistance that is was my link and i didnt embed it before adding it to my code. 
+   + I had an issue with the display:inline; it wouldnt work properly but i figured it out, and margined the home content till it was level. 
+   *** 
+**Validator Testing**
+* HTML
+   + 
