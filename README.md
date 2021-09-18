@@ -35,12 +35,14 @@ When a user visit's the home page, they will see a navigation menu, a big fifa 2
 *** 
 
 * More page
-
+ * header
    + I added some new styling to my naviagtion (in the More page) to add a more cleaner look   
 
    ![More Page Navigation](assets/css/images/More-nav.PNG)
-
+ * Fifa 22 trailer
    + I added a video of the offical Fifa 22 trailer to make the website more applealing and interactive to a user. 
    + The video has a title 'Fifa 22 trailer' to let the user know what this video is about.  
 
    ![More Page fifa trailer](assets/css/images/more-fifa-trailer.PNG)
+* More page content 
+   + 
