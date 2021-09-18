@@ -21,6 +21,7 @@ When a user visit's the home page, they will see a navigation menu, a big fifa 2
 + The main header has a box with some Pre Order information, the pre order box tells the user that if you pre order you get exclusive content and then the price below is shown. 
 
 ![Pre-Order box](assets/css/images/pre-order-box.PNG)
+***
 
 * Home Page Content
 
@@ -29,6 +30,7 @@ When a user visit's the home page, they will see a navigation menu, a big fifa 2
 + I have made the content in this type of color scheme to make sure it stands out from the background and that it would look sporty so that it would fit my product. 
 
 ![Home Page Content](assets/css/images/home-page-content.PNG)
+*** 
 
 * More page
 + 
