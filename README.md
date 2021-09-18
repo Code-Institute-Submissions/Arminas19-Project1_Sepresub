@@ -10,9 +10,9 @@ When a user visit's the home page, they will see a navigation menu, a big fifa 2
 ## Features 
 
 * Navigation menu
-+ My navigation menu has 3 different pages labeled Home, More and Sign-up. I have a underline to mark where on the website the user it at. 
-+ My website is linear so that it's very easy to navigate through, the sections are clearly sepearted but not too far from each other, all my content is in a different color from the background so that it stands out. 
-+ I have created a color and added a font that makes my content look sporty and that fits in to my product. 
+   + My navigation menu has 3 different pages labeled Home, More and Sign-up. I have a underline to mark where on the website the user it at. 
+   + My website is linear so that it's very easy to navigate through, the sections are clearly sepearted but not too far from each other, all my content is in a different color from the background so that it stands out. 
+   + I have created a color and added a font that makes my content look sporty and that fits in to my product. 
 
 * Header
 
