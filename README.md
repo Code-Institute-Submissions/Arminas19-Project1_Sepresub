@@ -35,4 +35,7 @@ When a user visit's the home page, they will see a navigation menu, a big fifa 2
 *** 
 
 * More page
-   + 
+
+   + I added some new styling to my naviagtion (in the More page) to add a more cleaner look   
+
+   ![More Page Navigation](assets/css/images/More-nav.PNG)
