@@ -49,3 +49,12 @@ When a user visit's the home page, they will see a navigation menu, a big fifa 2
    + I have made the content easy to read by changing the font size and color of my content so that it stands out from the background. 
    + I made the colors a little different than the home page because i wanted to sepearate the two pages apart. 
    ![More Page Content](assets/css/images/more-page-content.PNG)
+   *** 
+* Sign-Up Page
+   + The sign up page is intended to be used to join a community of people that talk about fifa and the user also get's an option to get news (updates) about the game. 
+   + if a user want's to sign up they need to write their First name, last name and their email (all of this information is required). They also have to check the yes or no option which is also required to sign up.  
+   + The sign up form is valuable to the user if they want more information and updates about the game which will not be shown in the website. 
+   ![Sign up form](assets/css/images/sign-up-form.PNG)
+   ***
+   * Footer
+   +   
