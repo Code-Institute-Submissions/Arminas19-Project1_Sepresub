@@ -14,3 +14,9 @@ The purpose of the Fifa 22 website was to advertise the fifa video game, the adv
 When a user visit's the home page, they will see a navigation menu, a big fifa 22 picture and a side box with the price for the game on it. It's intended to give the user more knowlege of where they are at. 
 
 ![Home Page](assets/css/images/home-page.PNG)
+
+## Features 
+
+* Navigation menu
+
+-another test
