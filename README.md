@@ -14,23 +14,25 @@ When a user visit's the home page, they will see a navigation menu, a big fifa 2
    + My website is linear so that it's very easy to navigate through, the sections are clearly sepearted but not too far from each other, all my content is in a different color from the background so that it stands out. 
    + I have created a color and added a font that makes my content look sporty and that fits in to my product. 
 
+***
+
 * Header
 
-+ I put multiple images with the header 'Fifa 22' so that the user clearly understands what this webpage is all about.  
+   + I put multiple images with the header 'Fifa 22' so that the user clearly understands what this webpage is all about.  
  
-+ The main header has a box with some Pre Order information, the pre order box tells the user that if you pre order you get exclusive content and then the price below is shown. 
+   + The main header has a box with some Pre Order information, the pre order box tells the user that if you pre order you get exclusive content and then the price below is shown. 
 
 ![Pre-Order box](assets/css/images/pre-order-box.PNG)
 ***
 
 * Home Page Content
 
-+ The home page content talks about what are the new features to the game, this is done in two different boxes. 
-+ The content in the home page has a fifa picture with a fifa EA Sports logo. 
-+ I have made the content in this type of color scheme to make sure it stands out from the background and that it would look sporty so that it would fit my product. 
+   + The home page content talks about what are the new features to the game, this is done in two different boxes. 
+   + The content in the home page has a fifa picture with a fifa EA Sports logo. 
+   + I have made the content in this type of color scheme to make sure it stands out from the background and that it would look sporty so that it would fit my product. 
 
 ![Home Page Content](assets/css/images/home-page-content.PNG)
 *** 
 
 * More page
-+ 
+   + 
