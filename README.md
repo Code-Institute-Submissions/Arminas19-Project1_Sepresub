@@ -1,11 +1,3 @@
-# Example site
-The above comment will header and do a hr below the header.
-
-* This is a bullet point, IT's Great!
-
-![ cool guys](../assets/css/images/content-pic.png)
-
-![remot images](https://th.bing.com/th/id/OIP.Gz4NztlDJpypYVeVoSRiUgHaEK?w=265&h=180&c=7&r=0&o=5&dpr=1.25&pid=1.7)
 
 # Fifa 22
 
@@ -25,3 +17,7 @@ When a user visit's the home page, they will see a navigation menu, a big fifa 2
 ## Header
 
 + I put multiple images with the header 'Fifa 22' so that the user clearly understands what this webpage is all about.  
+ 
++ The main header has a box with some Pre Order information, the pre order box tells the user that if you pre order you get exclusive content and then the price below is shown. 
+
+#![Pre-Order box](assets/css/images/pre-order-box.PNG)
