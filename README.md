@@ -56,5 +56,9 @@ When a user visit's the home page, they will see a navigation menu, a big fifa 2
    + The sign up form is valuable to the user if they want more information and updates about the game which will not be shown in the website. 
    ![Sign up form](assets/css/images/sign-up-form.PNG)
    ***
-   * Footer
-   +   
+* Footer
+   +  I used my footer as a way to create my contact page. Inside my footer their is 4 social media links which the user can click.
+   + In big text i have written 'Reach out and contact us here' to let the user know where to go if they want to contact us. 
+   + I put a line of text underneate the header of the footer to let the user know where to go if they want to read more information about the games features. 
+   
+    ![Footer image](assets/css/images/footer-image.PNG)
