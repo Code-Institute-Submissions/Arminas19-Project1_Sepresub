@@ -76,4 +76,4 @@ When a user visit's the home page, they will see a navigation menu, a big fifa 2
    *** 
 **Validator Testing**
 * HTML
-   + 
+   + No errors or warnings were found for all pages - index More or sign-up.
