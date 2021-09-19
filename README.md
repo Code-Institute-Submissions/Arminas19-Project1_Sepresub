@@ -99,4 +99,5 @@ When a user visit's the home page, they will see a navigation menu, a big fifa 2
 
 **Media**
    +  I copy and Pasted some text from the offiaclly EA Fifa 22 website - here is their link: https://www.ea.com/en-gb/games/fifa/fifa-22 
-   + All my images where taken from this link: https://www.bing.com/images/search?q=fifa+22&form=HDRSC3&first=1&tsc=ImageHoverTitle. (also used google fonts and icons) - link for that: https://fontawesome.com/v5.15/icons/comments?style=solid
+   + All my images where taken from this link: https://www.bing.com/images/search?q=fifa+22&form=HDRSC3&first=1&tsc=ImageHoverTitle. 
+   + I also used google fonts and icons - link for that: https://fontawesome.com/v5.15/icons/comments?style=solid
