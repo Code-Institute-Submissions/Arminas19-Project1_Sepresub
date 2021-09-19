@@ -87,3 +87,13 @@ When a user visit's the home page, they will see a navigation menu, a big fifa 2
    + If i had more time i would try and make this website a bit more resposive. 
    ***
    ## Development
+   * My website was deployed in GitHub pages, theys are the steps i took:
+   + In GitHub repository i navigated to settings. 
+   + I scrolled down to pages, i clicked on the link. 
+   + In the source drop-down menu i selected my  branch as - main, and then i got the link to my website. 
+   * Here is the link to my website - https://arminas19.github.io/Project1/ 
+   ### Credits 
+   **Content** 
+   + 
+   **Media**
+   +  
