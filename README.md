@@ -17,6 +17,7 @@ When a user visit's the home page, they will see a navigation menu, a big fifa 2
 ***
 
 * Header
+   + The header in my page is a picture with the title fifa 22 and there is a football player beside my header. 
 
    + I put multiple images with the header 'Fifa 22' so that the user clearly understands what this webpage is all about.  
  
@@ -36,12 +37,15 @@ When a user visit's the home page, they will see a navigation menu, a big fifa 2
 
 **More page**
  * header
-   + I added some new styling to my naviagtion (in the More page) to add a more cleaner look   
+   + I added some new styling to my naviagtion (in the More page) to add a more cleaner look . 
+   + The navigation menu fit's in with my product and the color scheme so it adds to my look and it looks different than my home page navigation. 
+   + This navigation acts just like my home navigation and it has the class active on the More page to let the user know where they are at. 
 
    ![More Page Navigation](assets/css/images/More-nav.PNG)
  * Fifa 22 trailer
    + I added a video of the offical Fifa 22 trailer to make the website more applealing and interactive to a user. 
-   + The video has a title 'Fifa 22 trailer' to let the user know what this video is about.  
+   + The video has a title 'Fifa 22 trailer' to let the user know what this video is about. 
+   + The purpose of this video is to show the client how the product looks and what to expect. 
 
    ![More Page fifa trailer](assets/css/images/more-fifa-trailer.PNG)
 * More page content 
@@ -99,5 +103,5 @@ When a user visit's the home page, they will see a navigation menu, a big fifa 2
 
 **Media**
    +  I copy and Pasted some text from the offiaclly EA Fifa 22 website - here is their link: https://www.ea.com/en-gb/games/fifa/fifa-22 
-   + All my images where taken from this link: https://www.bing.com/images/search?q=fifa+22&form=HDRSC3&first=1&tsc=ImageHoverTitle. 
+   + All my images where taken from this link: https://www.bing.com/images/search?q=fifa+22&form=HDRSC3&first=1&tsc=ImageHoverTitle.  
    + I also used google fonts and icons - link for that: https://fontawesome.com/v5.15/icons/comments?style=solid
