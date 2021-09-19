@@ -87,13 +87,16 @@ When a user visit's the home page, they will see a navigation menu, a big fifa 2
    + If i had more time i would try and make this website a bit more resposive. 
    ***
    ## Development
-   * My website was deployed in GitHub pages, theys are the steps i took:
+* My website was deployed in GitHub pages, theys are the steps i took:
    + In GitHub repository i navigated to settings. 
    + I scrolled down to pages, i clicked on the link. 
    + In the source drop-down menu i selected my  branch as - main, and then i got the link to my website. 
    * Here is the link to my website - https://arminas19.github.io/Project1/ 
-   ### Credits 
+ ### Credits 
    **Content** 
-   + 
-   **Media**
-   +  
+   + I took Some of the code from the sign-up form the Love Running Project or 'Challenge'. 
+   + I had some inspiration from the links and active class from the Love Running Project, but i didnt copy and paste i just wrote it myself. 
+
+**Media**
+   +  I copy and Pasted some text from the offiaclly EA Fifa 22 website - here is their link: https://www.ea.com/en-gb/games/fifa/fifa-22 
+   + All my images where taken from this link: https://www.bing.com/images/search?q=fifa+22&form=HDRSC3&first=1&tsc=ImageHoverTitle. (also used google fonts and icons) - link for that: https://fontawesome.com/v5.15/icons/comments?style=solid
